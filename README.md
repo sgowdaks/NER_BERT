@@ -3,7 +3,6 @@ NER is a sequence tagging task, detecting entity names such as person, location,
 We chose these three applications, NER on
 1. LPSC (Lunar and Planetary Science Conference)
 2. BC2GM (BioCreative II Gene Mention Recognition)
-3. JNLPBA(Biomedical dataset that comes from the GENIA) dataset.
 
 For accessing the free GPU's that google provides, Edit --> Notebook settings --> GPU
 
